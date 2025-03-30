@@ -7,12 +7,12 @@ st.title("🌍 Study in Europe - Affordable Consultancy for Indian Students")
 
 # Home Section
 st.header("Welcome to Your Study Abroad Consultancy!")
-st.image("home_image.jpg", caption="Study in Europe", use_column_width=True)  # Placeholder for image
+st.image("home_image.jpeg", caption="Study in Europe", use_column_width=True)  # Placeholder for image
 st.write("We help Indian students achieve their dream of studying in Europe by providing expert guidance on admissions, visas, and scholarships.")
 
 # Why Study in Europe Section
 st.subheader("🎓 Why Study in Europe?")
-st.image("europe_image.jpg", caption="Beautiful European Campuses", use_column_width=True)  # Placeholder for image
+st.image("europe_image.jpeg", caption="Beautiful European Campuses", use_column_width=True)  # Placeholder for image
 st.write("- World-class universities and research opportunities")
 st.write("- Affordable education and scholarship options")
 st.write("- Diverse culture and excellent career prospects")

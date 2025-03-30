@@ -39,10 +39,5 @@ st.write("Fill out the form below to schedule a session with us:")
 google_form_url = "https://forms.gle/YOUR_FORM_LINK_HERE"  # Replace with your Google Form link
 st.markdown(f"[👉 Click here to book an appointment]({google_form_url})", unsafe_allow_html=True)
 
-# Contact Section
-st.subheader("📞 Contact Us")
-st.write("📧 Email: your_email@example.com")
-st.write("📱 WhatsApp: +91XXXXXXXXXX")
-st.write("🌐 Website: www.yourwebsite.com")
 
 st.success("We look forward to helping you start your journey to Europe!")
